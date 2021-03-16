@@ -1,0 +1,5 @@
+flask
+pymongo
+flasgger
+cryptocompare
+json_log_formatter
