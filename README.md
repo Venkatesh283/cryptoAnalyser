@@ -21,3 +21,9 @@ pip install -r requirements.txt
 ```
 https://docs.mongodb.com/manual/installation/
 ```
+
+4. Get API key from cryptocompare to get historical data
+
+```
+https://min-api.cryptocompare.com/
+```
