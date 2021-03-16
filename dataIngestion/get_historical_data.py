@@ -92,7 +92,6 @@ class GetHistoricalData():
         return
 
     def get_and_upload_historical_info(self, num_days=1):
-        import pdb;pdb.set_trace()
         symbols = self._get_symbols()
 
         chunk_size = len(symbols) // MAX_THREADS
