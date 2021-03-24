@@ -1,3 +1,6 @@
+import os
+import sys
+import inspect
 import datetime
 import threading
 import cryptocompare
